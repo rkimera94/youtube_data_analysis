@@ -6,8 +6,8 @@ This is to analyze youtube data (videos, tags, video durations) using a search k
 
 1. Install Anaconda
 2. Open jupyter notebook. 
-3. Set up postgres database server. Create database: <dbname>
-  
+3. Set up postgres database server. Create database: dbname e.g youtubedb
+   
 
 # Database Connection:
 Please enter the database Connection parameters. 
