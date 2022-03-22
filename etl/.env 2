@@ -1,0 +1,31 @@
+# source database 
+# DB_DATABASE_NAME= cemis-datawarehouse
+# DB_PORT=5234
+# DB_USERNAME= postgres
+# DB_PASSWORD= 123@Ht
+# DB_HOST=  localhost
+# DB_DIALECT=
+# DB_OPERATORSALIASES=
+
+# # target database 
+# DB_TARGET=
+
+# source database 
+DB_DATABASE_NAME= 
+DB_PORT=5234
+DB_USERNAME= 
+DB_PASSWORD= 
+DB_HOST=  
+DB_DIALECT=
+DB_OPERATORSALIASES=
+
+# target database 
+DB_TARGET= 
+DB_PORT=5234
+DB_USERNAME= 
+DB_PASSWORD=
+DB_HOST=  
+DB_DIALECT=
+DB_OPERATORSALIASES=
+
+
