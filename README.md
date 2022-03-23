@@ -10,7 +10,7 @@ https://developers.google.com/youtube/v3/docs/search/list
 
 
 
-##Data/vidoes' analysis
+##Data/videos analysis
 
 Tag Vs number videos
 Tag with most videos, least videos etc
